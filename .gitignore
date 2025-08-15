@@ -23,3 +23,9 @@ go.work
 .idea/
 *.swp
 *.swo
+
+# GitHub setup scripts
+github-setup*
+setup-remote*
+set-git-user*
+test-projects*
